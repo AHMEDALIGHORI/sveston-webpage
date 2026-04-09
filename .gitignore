@@ -3,5 +3,3 @@ dist/
 .DS_Store
 *.log
 .vite/
-assets/Hero Section.mp4
-public/hero-video.mp4
