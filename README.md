@@ -295,6 +295,14 @@ graph TB
 
 <img src="https://img.shields.io/badge/node-%3E%3D18.0.0-88CE02?style=flat-square&logo=node.js&logoColor=white" alt="Node" />
 <img src="https://img.shields.io/badge/npm-%3E%3D9.0.0-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" />
+<img src="https://img.shields.io/badge/git--lfs-required-0A66C2?style=flat-square&logo=gitlfs&logoColor=white" alt="Git LFS" />
+
+> This repository stores video assets with Git LFS. Install Git LFS once on your machine and initialize it before pulling large media files:
+
+```bash
+git lfs install
+git lfs pull
+```
 
 ### Installation
 
