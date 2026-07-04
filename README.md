@@ -717,3 +717,14 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 <a href="#-table-of-contents">⬆️ Back to Top</a>
 
 </div>
+
+
+## Suggested GitHub Topics
+
+~~~text
+html css javascript website landing-page responsive-design frontend web-design
+~~~
+
+## License
+
+This project is available under the MIT License. See [LICENSE](LICENSE).
